@@ -168,26 +168,26 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+        "Ivan knows his business well and always tries to learn better.",
       name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
+      // designation: "CFO",
+      // company: "Acme Co",
       image: "https://randomuser.me/api/portraits/women/4.jpg",
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
+        "Ivan is a very diligent and hardworking guy.",
       name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
+      // designation: "COO",
+      // company: "DEF Corp",
       image: "https://randomuser.me/api/portraits/men/5.jpg",
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+        "Ivan, well done, keep up the good work! I'd love to see your next projects!",
       name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
+      // designation: "CTO",
+      // company: "456 Enterprises",
       image: "https://randomuser.me/api/portraits/women/6.jpg",
     },
   ];
