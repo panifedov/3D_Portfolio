@@ -112,24 +112,24 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Freelance",
+      title: "JavaScript Developer",
+      company_name: "Freelance/Upwork",
       icon: git,
       iconBg: "#383E56",
-      date: " April 2022 - August 2022",
+      date: " April 2022 - November 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
+        "Developing and maintaining web applications using React.js/Vue.js/PostgreSQL/MongoDB/Node.js/Express",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
     },
     {
-      title: "Vue.js Developer",
+      title: "Frontend Developer",
       company_name: "Beads",
       icon: git,
       iconBg: "#E6DEDD",
-      date: "September 2022 - January 2023",
+      date: "December 2022 - Mart 2023",
       points: [
         "Developing and maintaining web applications using Vue.js and other related technologies.",
         "Maintenance of existing projects",
@@ -138,13 +138,13 @@ import {
       ],
     },
     {
-      title: "Frontend Developer",
-      company_name: "Medical StartUp",
+      title: "JavaScript Developer",
+      company_name: "StartUp",
       icon: git,
       iconBg: "#383E56",
-      date: "Feb 2023 - Present",
+      date: "April 2023 - Present",
       points: [
-        "Developing and maintaining web applications  other related technologies.",
+        "Developing and maintaining web applications",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
         "Participating in code reviews and providing constructive feedback to other developers.",
