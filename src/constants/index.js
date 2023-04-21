@@ -112,7 +112,7 @@ import {
   
   const experiences = [
     {
-      title: "JavaScript Developer",
+      title: "FullStack Developer",
       company_name: "Freelance/Upwork",
       icon: git,
       iconBg: "#383E56",
@@ -138,7 +138,7 @@ import {
       ],
     },
     {
-      title: "JavaScript Developer",
+      title: "FullStack Developer",
       company_name: "StartUp",
       icon: git,
       iconBg: "#383E56",
